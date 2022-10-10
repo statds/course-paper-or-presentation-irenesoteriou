@@ -1,0 +1,1 @@
+This is my repository for STAT 3494W. This repository will contain my proposal for my paper on the relationship between freedom of speech and physical integrity rights across four countries, along with the paper itself.
