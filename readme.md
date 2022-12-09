@@ -1,0 +1,1 @@
+This is my final paper for STAT 3494W, which investigates the relationship between freedom of speech and physical integrity rights.
